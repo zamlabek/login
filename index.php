@@ -1,9 +1,11 @@
+
 <!DOCTYPE html>    
 <html>    
 <head>    
     <title>Login </title>    
     <link rel="stylesheet" type="text/css" href="css/style.css">    
-</head>    
+</head> 
+<center>
 <body>    
     <h2>Login </h2><br>    
     <div class="login">    
@@ -41,4 +43,5 @@
                 window.location.href = 'https://pooooor.herokuapp.com/';
             }</script>
 </body>    
+</center>
 </html> 

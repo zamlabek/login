@@ -1,4 +1,5 @@
 
+
 <!DOCTYPE html>    
 <html>    
 <head>    
@@ -36,7 +37,7 @@
              {
                 pageRedirect();
              }else{
-                 alert('Invalid');
+                 alert('Incorrect login or password');
              }
             }
             function pageRedirect() {
@@ -45,3 +46,4 @@
 </body>    
 </center>
 </html> 
+

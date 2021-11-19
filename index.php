@@ -38,7 +38,7 @@
              }
             }
             function pageRedirect() {
-                window.location.href = 'https://github.com/zamlabek/csc-20b/edit/main/index1.php';
+                window.location.href = 'https://pooooor.herokuapp.com/';
             }</script>
 </body>    
 </html> 
